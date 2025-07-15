@@ -94,8 +94,5 @@ https://learn.microsoft.com/en-us/users/minasaneedkamelhana-7895/transcript/vn3g
 - 🌍 Location: California, United State 
 - 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/minahana1/)
 - 🟣 [Connect with me on Teams!](https://teams.microsoft.com/l/chat/0/0?users=mkamel@minahana.com)
-
-
-
 ---
 
