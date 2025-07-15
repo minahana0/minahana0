@@ -32,38 +32,37 @@ Hi there! I'm a certified Cloud Solutions Architect with a strong focus on Moder
 ✅ 📊 **Data & AI**
 - 🤖 Microsoft Copilot
 - 🧩 Microsoft Copilot Studio
-
-- ✅ 💼 **Business Productivity**
+✅ 💼 **Business Productivity**
 - 📧 Exchange Online
 - 🗂️ SharePoint Online
 - 💬 Microsoft Teams
 - 📨 Exchange Server
 - 📞 Skype for Business Server
 
-- ✅ ☁️ **Cloud, Security & Compliance**
-        🌐 Microsoft Azure
-        🪪 Microsoft Entra ID Premium
-        📱 Microsoft Endpoint Manager
-        🛡️ Microsoft Defender for Endpoint
-        🛡️ Microsoft Defender for Identity
-        🛡️ Microsoft Defender for Office 365
-        🛡️ Microsoft Defender for Cloud Apps
-        🗂️ Microsoft Purview
+✅ ☁️ **Cloud, Security & Compliance**
+- 🌐 Microsoft Azure
+- 🪪 Microsoft Entra ID Premium
+- 📱 Microsoft Endpoint Manager
+- 🛡️ Microsoft Defender for Endpoint
+- 🛡️ Microsoft Defender for Identity
+- 🛡️ Microsoft Defender for Office 365
+- 🛡️ Microsoft Defender for Cloud Apps
+- 🗂️ Microsoft Purview
 
-- ✅ 📞 **Voice & Collaboration**
-        🔗 Microsoft Teams Direct Routing
-        🎥 Cloud Video Interop for Microsoft Teams
-        📡 Ribbon Session Border Controller
-        📽️ Pexip Video Conferencing Solutions for Microsoft Teams
-        📞 Poly and Yealink IP Phones
+✅ 📞 **Voice & Collaboration**
+- 🔗 Microsoft Teams Direct Routing
+- 🎥 Cloud Video Interop for Microsoft Teams
+- 📡 Ribbon Session Border Controller
+- 📽️ Pexip Video Conferencing Solutions for Microsoft Teams
+- 📞 Poly and Yealink IP Phones
 
-- ✅ 🔒 **Secure Infrastructure**
-        🗝️ Microsoft Active Directory, AD RMS, File Server
-        🖥️ Windows Server
-        💻 Windows Client
-        📦 Microsoft Hyper-V
-        ⚙️ Microsoft System Center Suite
-        🗄️ Microsoft SQL Server
+✅ 🔒 **Secure Infrastructure**
+- 🗝️ Microsoft Active Directory, AD RMS, File Server
+- 🖥️ Windows Server
+- 💻 Windows Client
+- 📦 Microsoft Hyper-V
+- ⚙️ Microsoft System Center Suite
+- 🗄️ Microsoft SQL Server
 
 
 ---
