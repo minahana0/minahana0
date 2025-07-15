@@ -25,32 +25,32 @@ Hi there! I'm a certified Cloud Solutions Architect with a strong focus on Moder
 
 ## 🚀 Core Skills
 
-- ✅ 📊 Data & AI
+- ✅ 📊 **Data & AI**
         - 🤖 Microsoft Copilot
         - 🧩 Microsoft Copilot Studio
 
-- ✅ 💼 Business Productivity
+- ✅ 💼 **Business Productivity**
         📧 Exchange Online
         🗂️ SharePoint Online
         💬 Microsoft Teams
         📨 Exchange Server
         📞 Skype for Business Server
 
-- ✅ ☁️ Cloud, Security & Compliance
+- ✅ ☁️ **Cloud, Security & Compliance**
         🌐 Microsoft Azure
         🪪 Microsoft Entra ID Premium
         📱 Microsoft Endpoint Manager
         🛡️ Microsoft Defender
         🗂️ Microsoft Purview
 
-- ✅ 📞 Voice & Collaboration
+- ✅ 📞 **Voice & Collaboration**
         🔗 Microsoft Teams Direct Routing
         🎥 Cloud Video Interop for Microsoft Teams
         📡 Ribbon Session Border Controller
         📽️ Pexip Video Conferencing Solutions for Microsoft Teams
         📞 Poly and Yealink IP Phones
 
-- ✅ 🔒 Secure Infrastructure
+- ✅ 🔒 **Secure Infrastructure**
         🗝️ Microsoft Active Directory, AD RMS, File Server
         🖥️ Windows Server
         💻 Windows Client
