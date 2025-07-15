@@ -26,8 +26,8 @@ Hi there! I'm a certified Cloud Solutions Architect with a strong focus on Moder
 ## 🚀 Core Skills
 
 - ✅ 📊 **Data & AI**
-      - 🤖 Microsoft Copilot
-      - 🧩 Microsoft Copilot Studio
+- 🤖 Microsoft Copilot
+- 🧩 Microsoft Copilot Studio
 
 - ✅ 💼 **Business Productivity**
         📧 Exchange Online
@@ -40,7 +40,10 @@ Hi there! I'm a certified Cloud Solutions Architect with a strong focus on Moder
         🌐 Microsoft Azure
         🪪 Microsoft Entra ID Premium
         📱 Microsoft Endpoint Manager
-        🛡️ Microsoft Defender
+        🛡️ Microsoft Defender for Endpoint
+        🛡️ Microsoft Defender for Identity
+        🛡️ Microsoft Defender for Office 365
+        🛡️ Microsoft Defender for Cloud Apps
         🗂️ Microsoft Purview
 
 - ✅ 📞 **Voice & Collaboration**
