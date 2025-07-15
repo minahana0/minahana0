@@ -6,7 +6,7 @@ Hi there! I'm a certified Cloud Solutions Architect with a strong focus on Moder
 
 ## 🏆 Certifications
 
-- 🟢 Microsoft Certified Trainer - MCT
+- 🟢 Microsoft Certified Trainer - **MCT**
 - 🟢 Microsoft Certified: **Azure Solutions Architect Expert**
 - 🟢 Microsoft Certified: **Azure Security Engineer Associate**
 - 🟢 Microsoft Certified: **Azure Network Engineer Associate**
@@ -24,7 +24,8 @@ Hi there! I'm a certified Cloud Solutions Architect with a strong focus on Moder
 - 🟢 Microsoft® Certified Solutions Expert: **Communication**
 - 🟢 Microsoft® Certified Solutions Expert: **Messaging**
 - 🟢 Microsoft Certified: **Security, Compliance, and Identity Fundamentals**
-
+- 🟢 ISC2: **Certified in Cybersecurity (CC)**
+- 🟢 Ribbon communication: **Ribbon SBC Edge Implementation & Support Professional**
 ---
 
 ## 🚀 Core Skills
