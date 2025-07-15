@@ -6,16 +6,20 @@ Hi there! I'm a certified Cloud Solutions Architect with a strong focus on Moder
 
 ## 🏆 Certifications
 
+- 🟢 Microsoft Certified Trainer - MCT
 - 🟢 Microsoft Certified: **Azure Solutions Architect Expert**
 - 🟢 Microsoft Certified: **Azure Security Engineer Associate**
 - 🟢 Microsoft Certified: **Azure Network Engineer Associate**
 - 🟢 Microsoft Certified: **Azure Virtual Desktop Specialty**
 - 🟢 Microsoft Certified: **Azure Administrator Associate**
 - 🟢 Microsoft 365 Certified: **Enterprise Administrator**
+- 🟢 Microsoft 365 Certified: **Security Administrator Associate**
 - 🟢 Microsoft 365 Certified: **Administrator Expert**
 - 🟢 Microsoft 365 Certified: **Security Operations Analyst Associate**
 - 🟢 Microsoft 365 Certified: **Teams Administrator Associate**
+- 🟢 Microsoft 365 Certified: **Teams Voice Engineer Expert**
 - 🟢 Microsoft 365 Certified: **Collaboration Communications Systems Engineer Associate**
+- 🟢 Microsoft Certified: **Information Protection and Compliance Administrator Associate**
 - 🟢 Microsoft 365 Certified: **Endpoint Administrator Associate**
 - 🟢 Microsoft® Certified Solutions Expert: **Communication**
 - 🟢 Microsoft® Certified Solutions Expert: **Messaging**
