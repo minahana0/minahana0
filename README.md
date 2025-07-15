@@ -73,10 +73,10 @@ Hi there! I'm a certified Cloud Solutions Architect with a strong focus on Moder
 | Purpose               | Tools/Technologies                       |
 |-----------------------|------------------------------------------|
 | Cloud Infrastructure  | Azure, Terraform, ARM                    |
-| Modern Work           | EXO, SPO, OD, Teams,                       |
-| Containerization      | Docker, Kubernetes, Helm                 |
-| Monitoring & Logging  | Prometheus, Grafana, Azure Monitor       |
-| Secrets Management    | Azure Key Vault, HashiCorp Vault         |
+| Modern Work           | EXO, SPO, OD, Teams,                     |
+| Security              | Intune, MDE, MDI, MDO, MDCA              |
+| Compliance and GRC    | MIP, DLP, IRM, IB, RM, eDiscovery        |
+| Endpoint Management   | Intune, SCCM                             |
 | Scripting & Automation| PowerShell                         |
 
 ---
