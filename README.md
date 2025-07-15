@@ -32,6 +32,7 @@ Hi there! I'm a certified Cloud Solutions Architect with a strong focus on Moder
 ✅ 📊 **Data & AI**
 - 🤖 Microsoft Copilot
 - 🧩 Microsoft Copilot Studio
+
 ✅ 💼 **Business Productivity**
 - 📧 Exchange Online
 - 🗂️ SharePoint Online
