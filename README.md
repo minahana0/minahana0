@@ -81,6 +81,10 @@ Hi there! I'm a certified Cloud Solutions Architect with a strong focus on Moder
 | **Scripting & Automation**| PowerShell                               |
 
 ---
+## 📫 References
+
+**Microsoft Certified Professional Transcript**: https://learn.microsoft.com/en-us/users/minasaneedkamelhana-7895/transcript/vn3gt3xmz0wn5w7?source=docs
+---
 
 ## 📫 Let's Connect
 
