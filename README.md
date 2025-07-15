@@ -86,6 +86,6 @@ Hi there! I'm a certified Cloud Solutions Architect with a strong focus on Moder
 - 📧 Email: Mina.saneed@hotmail.com  
 - 🌍 Location: California, United State 
 - 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/minahana1/)
-- 🟣 [Connect with me on Teams](mkamel@minahana.com)
+- 🟣 [Connect with me on Teams!](https://teams.microsoft.com/l/chat/0/0?users=mkamel@minahana.com)
 ---
 
