@@ -29,7 +29,7 @@ Hi there! I'm a certified Cloud Solutions Architect with a strong focus on Moder
 
 ## 🚀 Core Skills
 
-- ✅ 📊 **Data & AI**
+✅ 📊 **Data & AI**
 - 🤖 Microsoft Copilot
 - 🧩 Microsoft Copilot Studio
 
