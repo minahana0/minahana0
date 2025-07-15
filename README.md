@@ -34,11 +34,11 @@ Hi there! I'm a certified Cloud Solutions Architect with a strong focus on Moder
 - 🧩 Microsoft Copilot Studio
 
 - ✅ 💼 **Business Productivity**
-        📧 Exchange Online
-        🗂️ SharePoint Online
-        💬 Microsoft Teams
-        📨 Exchange Server
-        📞 Skype for Business Server
+- 📧 Exchange Online
+- 🗂️ SharePoint Online
+- 💬 Microsoft Teams
+- 📨 Exchange Server
+- 📞 Skype for Business Server
 
 - ✅ ☁️ **Cloud, Security & Compliance**
         🌐 Microsoft Azure
