@@ -74,7 +74,7 @@ Hi there! I'm a certified Cloud Solutions Architect with a strong focus on Moder
 |-----------------------|------------------------------------------|
 | Cloud Infrastructure  | Azure, Terraform, ARM                    |
 | Modern Work           | EXO, SPO, OD, Teams, Teams Voice         |
-| Security              | Intune, MDE, MDI, MDO, MDCA              |
+| Security              | Entra ID, PIM,MDE, MDI, MDO, MDCA        |
 | Compliance and GRC    | MIP, DLP, IRM, IB, RM, eDiscovery        |
 | Endpoint Management   | Intune, SCCM                             |
 | Scripting & Automation| PowerShell                               |
