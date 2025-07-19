@@ -50,6 +50,10 @@ Hi there! I'm a certified Cloud Solutions Architect with a strong focus on Moder
 - 🛡️ Microsoft Defender for Office 365
 - 🛡️ Microsoft Defender for Cloud Apps
 - 🗂️ Microsoft Purview
+- 🛡️ Microsoft Information Protection
+- 🛡️ Microsoft Data Loss Protection
+- 🛡️ Microsoft Insider Risk Managment
+
 
 ✅ 📞 **Voice & Collaboration**
 - 🔗 Microsoft Teams Direct Routing
